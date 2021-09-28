@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "ListCard",
   },
-  plugins: [],
+  plugins: [`gatsby-plugin-styled-components`],
 };
